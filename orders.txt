@@ -1,0 +1,45 @@
+
+
+Item description:	Widgets
+Amount Ordered:		40
+Supplier:			Winork Manufacturing Inc.
+
+Item description:	Grommets
+Amount Ordered:		30
+Supplier:			Grommet Builders
+
+Item description:	Wedges
+Amount Ordered:		35
+Supplier:			Wings Works
+
+Item description:	Wing Bats
+Amount Ordered:		39
+Supplier:			Wiley Inc.
+
+Item description:	Wiggles
+Amount Ordered:		20
+Supplier:			Wings Works
+
+Item description:	Bing Bobs
+Amount Ordered:		25
+Supplier:			Grab Bag Inc.
+
+Item description:	Barney Bits
+Amount Ordered:		29
+Supplier:			Paddy's Manufacturing
+
+Item description:	Barge Bogs
+Amount Ordered:		15
+Supplier:			Biff Builders
+
+Item description:	Iggy Orks
+Amount Ordered:		28
+Supplier:			Irkle Industries
+
+Item description:	Orf Dappers
+Amount Ordered:		18
+Supplier:			Fiddleys Makes Stuff Inc.
+
+Item description:	Tin Wits
+Amount Ordered:		27
+Supplier:			Tic Tac Manufacturing
